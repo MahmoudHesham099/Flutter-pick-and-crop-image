@@ -1,16 +1,8 @@
-# pickcrop
+# pick&crop image
 
-A new Flutter application.
+Flutter pick and crop image
 
-## Getting Started
+## YouTube Link:
 
-This project is a starting point for a Flutter application.
+[Flutter Pick & Crop Image](https://youtu.be/nIMfayjbE4k)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
